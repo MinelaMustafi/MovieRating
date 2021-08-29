@@ -1,0 +1,70 @@
+.ant-menu {
+  border-bottom: 1px #036 solid;
+}
+
+.ant-menu-horizontal {
+  background-color: #69c !important;
+  color: white !important;
+  border-bottom: 1px #036 solid;
+  padding: 0 8px !important;
+  margin-top: 12px !important;
+  margin-right: 24px !important;
+}
+
+.ant-menu-item-only-child {
+  background-color: #69c !important;
+  color: white !important;
+  border-bottom: 1px #036 solid;
+  padding: 0 8px !important;
+  margin: 0 !important;
+}
+
+.ant-menu-horizontal>.ant-menu-item-selected {
+  background-color: #369 !important;
+  color: white !important;
+  border-bottom: 1px #036 solid;
+  padding: 0 8px !important;
+  margin: 0 !important;
+}
+
+.ant-menu-horizontal>.ant-menu-item:hover {
+  background-color: #c6ae94 !important;
+  color: black !important;
+  border-bottom: 1px #036 solid;
+  padding: 0 8px !important;
+  margin: 0 !important;
+}
+
+.ant-menu-submenu-horizontal {
+  background-color: #69c !important;
+  color: white !important;
+  border-bottom: 1px #036 solid;
+  padding: 0 8px !important;
+  margin: 0 !important;
+}
+
+.ant-menu-submenu {
+  background-color: #69c !important;
+  color: white !important;
+  border-bottom: 1px #036 solid;
+  padding: 0 8px !important;
+  margin: 0 !important;
+}
+
+.ant-menu-submenu-selected {
+  background-color: #ddc7b0 !important;
+  color: black !important;
+  border-bottom: 1px #036 solid;
+  padding: 0 8px !important;
+  margin: 0 !important;
+}
+
+.ant-menu-vertical>.ant-menu-item-selected {
+  color: black !important;
+  background-color: #ddc7b0 !important;
+}
+
+.ant-menu-vertical>.ant-menu-item:hover {
+  color: white !important;
+  background-color: #c6ae94 !important;
+}
